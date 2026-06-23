@@ -151,5 +151,6 @@ This project was built to learn:
 ---
 
 ## Live Demo
-
+FOR LIVE 
+url is = https://ai-trip-planner-4nmo.onrender.com/
 Coming Soon 🚀
